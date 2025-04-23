@@ -23,4 +23,5 @@ my_list.pop()
 my_list.sort()
 
 #index of value 30
-print(my_list.index(30))
+
+print(f"Index of 30: {my_list.index(30)}")
